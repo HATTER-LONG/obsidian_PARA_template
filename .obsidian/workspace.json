@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "37a4ece0ae44376a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cf291c750f70911",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ae82b8d469273d8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "033576a6b33dff69",
+    "type": "split",
+    "children": [
+      {
+        "id": "d32bd3e9f2db57a0",
+        "type": "tabs",
+        "dimension": 41.54818325434439,
+        "children": [
+          {
+            "id": "e2f9ecf537a853a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "9110575c83bff6ab",
+            "type": "leaf",
+            "state": {
+              "type": "periodic-para",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "90362f6f602f507d",
+        "type": "tabs",
+        "dimension": 58.451816745655606,
+        "children": [
+          {
+            "id": "318abbbcd7749f6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc8540b919f4ee67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "listByFolder",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b78bc0e4508fc3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 397.5024719238281
+  },
+  "right": {
+    "id": "e909704c2c67d329",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d590967b738185b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfe60a9c435028cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d086e2d3fce45ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "fdf26b19b598132b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14a387d228e8b0a8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "templater-obsidian:Templater": false,
+      "periodic-para:Periodic PARA": false
+    }
+  },
+  "active": "1ae82b8d469273d8",
+  "lastOpenFiles": [
+    "0. 周期笔记/2023/Daily/12/2023-12-19.md",
+    "0. 周期笔记/2023/Daily/12",
+    "3. Resources/Template.md",
+    "任务.md",
+    "主页.canvas",
+    "5. 表达/README.md",
+    "5. 表达",
+    "4. 存档/育儿-宝宝起名/规则.md",
+    "4. 存档/育儿-宝宝起名/程序起名.md",
+    "4. 存档/育儿-宝宝起名/五行/金.md",
+    "4. 存档/育儿-宝宝起名/五行/火.md",
+    "4. 存档/育儿-宝宝起名/五行/水.md",
+    "4. 存档/育儿-宝宝起名/五行/木.md",
+    "4. 存档/育儿-宝宝起名/五行/土.md",
+    "4. 存档/育儿-宝宝起名/program/package.json",
+    "4. 存档/育儿-宝宝起名/program/nameCandidateList.md",
+    "4. 存档/育儿-宝宝起名/program/index.js",
+    "4. 存档/育儿-宝宝起名/program/README.md",
+    "4. 存档/育儿-宝宝起名/林奕如.png",
+    "4. 存档/育儿-宝宝起名/单字.md",
+    "4. 存档/育儿-宝宝起名/候选列表.md",
+    "4. 存档/育儿-宝宝起名/五行和字义查询.md",
+    "4. 存档/育儿-宝宝起名/五行",
+    "4. 存档/育儿-宝宝起名/program",
+    "4. 存档/育儿-宝宝起名/baby-name.png",
+    "4. 存档/育儿-宝宝起名/README.md",
+    "4. 存档/育儿-宝宝起名",
+    "4. 存档/Template.md",
+    "4. 存档/README.md",
+    "4. 存档",
+    "3. 资源/摄影摄像/README.md",
+    "3. 资源/摄影摄像",
+    "3. 资源/Template.md",
+    "3. 资源/README.md",
+    "3. 资源",
+    "2. 领域/育儿/README.md",
+    "2. 领域/知识管理/README.md",
+    "2. 领域/工作/README.md",
+    "2. 领域/Template.md",
+    "1. 项目/分享-2023 WOT 分享会/架构图/Polyrepo.svg",
+    "1. 项目/分享-2023 WOT 分享会/架构图/Monorepo.svg",
+    "1. 项目/分享-2023 WOT 分享会/Attachments/PPT 素材/warning.svg",
+    "1. 项目/分享-2023 WOT 分享会/Attachments/PPT 素材/warning.png",
+    "1. 项目/分享-2023 WOT 分享会/Attachments/PPT 素材/rollup-logo.svg",
+    "1. 项目/分享-2023 WOT 分享会/Attachments/PPT 素材/monitor.png",
+    "1. 项目/分享-2023 WOT 分享会/Attachments/PPT 素材/repo-hero-logo-light.svg",
+    "1. 项目/分享-2023 WOT 分享会/Attachments/PPT 素材/monitor.svg",
+    "HOME.canvas",
+    "Templates/HOME.canvas",
+    "hello/HOME.canvas",
+    "hello/Templates/HOME.canvas"
+  ]
+}
