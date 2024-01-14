@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "76b991b61af3427d",
+            "id": "23dd5cf5047bb107",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0. 周期笔记/Templates/Daily.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -27,7 +32,7 @@
       {
         "id": "d32bd3e9f2db57a0",
         "type": "tabs",
-        "dimension": 49.3862134088763,
+        "dimension": 30.31161473087819,
         "children": [
           {
             "id": "e2f9ecf537a853a4",
@@ -51,7 +56,7 @@
       {
         "id": "90362f6f602f507d",
         "type": "tabs",
-        "dimension": 50.6137865911237,
+        "dimension": 69.68838526912181,
         "children": [
           {
             "id": "318abbbcd7749f6f",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. 周期笔记/Templates/Daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0. 周期笔记/Templates/Daily.md"
+              }
             }
           },
           {
@@ -128,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. 周期笔记/Templates/Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5,
-    "collapsed": true
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,11 +179,22 @@
       "periodic-para:Periodic PARA": false
     }
   },
-  "active": "76b991b61af3427d",
+  "active": "23dd5cf5047bb107",
   "lastOpenFiles": [
     "0. 周期笔记/2024/Daily/01/2024-01-14.md",
     "README.md",
+    "任务.md",
+    "主页.canvas",
+    "0. 周期笔记/2023/Daily/06/2023-06-01.md",
+    "0. 周期笔记/2023/Monthly/2023-06.md",
+    "0. 周期笔记/2023/Daily/06/2023-06-11.md",
+    "0. 周期笔记/2023/Weekly/2023-W22.md",
+    "0. 周期笔记/2023/Daily/06/2023-06-03.md",
+    "1. 项目/分享-2023 WOT 分享会/WOT.README.md",
     "0. 周期笔记/Templates/Daily.md",
+    "0. 周期笔记/Templates/Monthly.md",
+    "0. 周期笔记/Templates/Quarterly.md",
+    "0. 周期笔记/2023/Daily/06/2023-06-08.md",
     "0. 周期笔记/2024/Daily/01",
     "0. 周期笔记/2024/Daily",
     "0. 周期笔记/2024",
@@ -185,30 +204,19 @@
     "0-周期笔记/2024/Daily",
     "0-周期笔记/2024",
     "0-周期笔记",
-    "0. 周期笔记/Templates/Monthly.md",
     "0. 周期笔记/2023/Daily/06/2023-06-07.md",
-    "0. 周期笔记/2023/Daily/06/2023-06-01.md",
-    "任务.md",
     "0. 周期笔记/2023/2023.md",
-    "1. 项目/分享-2023 WOT 分享会/WOT.README.md",
     "0. 周期笔记/2024/Daily/01/2024-01-11.md",
     "0. 周期笔记/2024/Daily/01/2024-01-12.md",
     "0. 周期笔记/2024/Daily/01/2024-01-13.md",
     "0. 周期笔记/2023/Daily/06/2023-06-06.md",
     "2. 领域/知识管理/README.md",
-    "主页.canvas",
     "0. 周期笔记/2023/Daily/06/2023-06-09.md",
     "font/YangRenDongZhuShiTi-Regular-2.ttf",
     "font/YeZiGongChangChuanQiuShaXingKai-2.ttf",
     "font",
     "1. 项目/分享-2023 WOT 分享会/PPT 大纲.md",
     "0. 周期笔记/2023/Quarterly/2023-Q1.md",
-    "1. 项目/分享-2023 WOT 分享会/往届主题.md",
-    "0. 周期笔记/2023/Weekly/2023-W23.md",
-    "0. 周期笔记/Templates/Quarterly.md",
-    "1. 项目/分享-2023 WOT 分享会/演讲排练/观众可能的问题.md",
-    "3. 资源/README.md",
-    "2. 领域/工作/README.md",
     "4. 存档/育儿-宝宝起名/林奕如.png",
     "4. 存档/育儿-宝宝起名/baby-name.png",
     "1. 项目/分享-2023 WOT 分享会/Attachments/PPT 素材/insert-row-below.svg",

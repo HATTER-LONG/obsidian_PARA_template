@@ -50,7 +50,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "- [ ] {{DATE:HH:mm}} {{VALUE}}\n"
+        "format": "{{DATE:HH:mm}} {{VALUE}}\n"
       },
       "insertAfter": {
         "enabled": true,
@@ -61,14 +61,14 @@
         "createIfNotFoundLocation": "bottom"
       },
       "prepend": false,
-      "task": false,
+      "task": true,
       "openFileInNewTab": {
-        "enabled": false,
+        "enabled": true,
         "direction": "vertical",
         "focus": true
       },
       "openFile": true,
-      "openFileInMode": "default"
+      "openFileInMode": "preview"
     }
   ],
   "macros": [],
