@@ -1,5 +1,76 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "d533e3de-8cc1-47ab-b418-b87db0457a34",
+      "name": "快速添加 PARA Capture",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "0. 周期笔记/{{DATE:YYYY}}/Daily/{{DATE:MM}}/{{DATE}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "0. 周期笔记/Templates/Daily.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "- {{DATE:HH:mm}} #PARA/Capture {{VALUE}}\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## Capture",
+        "insertAtEnd": true,
+        "considerSubsections": false,
+        "createIfNotFound": true,
+        "createIfNotFoundLocation": "bottom"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "9f7e0fcc-2cf0-4718-bf2b-d3c2054540b1",
+      "name": "快速添加每日事项",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "0. 周期笔记/{{DATE:YYYY}}/Daily/{{DATE:MM}}/{{DATE}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "0. 周期笔记/Templates/Daily.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "- [ ] {{DATE:HH:mm}} {{VALUE}}\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## 日常记录",
+        "insertAtEnd": true,
+        "considerSubsections": false,
+        "createIfNotFound": true,
+        "createIfNotFoundLocation": "bottom"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,

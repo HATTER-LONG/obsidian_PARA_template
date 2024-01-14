@@ -195,20 +195,28 @@
     }
   ],
   "float-search:search-obsidian-globally": [],
-  "obsidian-linter:lint-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
   "float-search:search-obsidian-globally-state": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "K"
+    }
+  ],
+  "quickadd:choice:9f7e0fcc-2cf0-4718-bf2b-d3c2054540b1": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "N"
+    }
+  ],
+  "quickadd:choice:d533e3de-8cc1-47ab-b418-b87db0457a34": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "A"
     }
   ]
 }
