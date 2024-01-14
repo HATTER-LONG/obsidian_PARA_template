@@ -3,5 +3,10 @@
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "hot-reload",
-  "periodic-para"
+  "periodic-para",
+  "obsidian-excalidraw-plugin",
+  "obsidian-vimrc-support",
+  "vim-im-select",
+  "quickadd",
+  "obsidian-linter"
 ]

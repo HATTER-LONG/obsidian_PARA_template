@@ -14,7 +14,7 @@
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "autoConvertHtml": true,
-  "vimMode": false,
+  "vimMode": true,
   "showLineNumber": false,
   "readableLineLength": false,
   "rightToLeft": false,

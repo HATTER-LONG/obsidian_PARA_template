@@ -1,16 +1,22 @@
 {
   "accentColor": "",
-  "cssTheme": "Typora-Vue",
+  "cssTheme": "Catppuccin",
   "theme": "system",
   "enabledCssSnippets": [
     "HideMarkdownEmbedTitle",
     "MultiColumn",
     "ImageWidth",
     "Checkboxes",
-    "DoneTaskInEditingMode"
+    "DoneTaskInEditingMode",
+    "隐藏滑动滚轮",
+    "checkbox",
+    "老版callouts",
+    "标题加颜色"
   ],
   "baseFontSize": 16,
   "nativeMenus": false,
   "showViewHeader": true,
-  "translucency": false
+  "translucency": false,
+  "textFontFamily": "LXGW WenKai",
+  "monospaceFontFamily": "Liga SFMono Nerd Font"
 }

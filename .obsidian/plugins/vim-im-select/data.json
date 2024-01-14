@@ -1,0 +1,8 @@
+{
+  "defaultIM": "com.apple.keylayout.ABC",
+  "obtainCmd": "/opt/homebrew/bin/macism",
+  "switchCmd": "/opt/homebrew/bin/macism {im}",
+  "windowsDefaultIM": "",
+  "windowsObtainCmd": "",
+  "windowsSwitchCmd": ""
+}

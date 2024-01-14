@@ -1,9 +1,6 @@
 ---
-
 tags:
-
-- PARA/Capture
-
+  - PARA/Capture
 ---
 
 ## 任务
