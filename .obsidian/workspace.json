@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. 周期笔记/Templates/Daily.md",
+                "file": "0. 周期笔记/2024/Daily/01/2024-01-20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +32,7 @@
       {
         "id": "d32bd3e9f2db57a0",
         "type": "tabs",
-        "dimension": 30.31161473087819,
+        "dimension": 48.725212464589234,
         "children": [
           {
             "id": "e2f9ecf537a853a4",
@@ -56,7 +56,7 @@
       {
         "id": "90362f6f602f507d",
         "type": "tabs",
-        "dimension": 69.68838526912181,
+        "dimension": 51.27478753541076,
         "children": [
           {
             "id": "318abbbcd7749f6f",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. 周期笔记/Templates/Daily.md",
+                "file": "0. 周期笔记/2024/Daily/01/2024-01-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. 周期笔记/Templates/Daily.md"
+                "file": "0. 周期笔记/2024/Daily/01/2024-01-20.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 周期笔记/Templates/Daily.md",
+                "file": "0. 周期笔记/2024/Daily/01/2024-01-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 356.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,12 +176,16 @@
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
-      "templater-obsidian:Templater": false,
-      "periodic-para:Periodic PARA": false
+      "periodic-para:Periodic PARA": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "23dd5cf5047bb107",
   "lastOpenFiles": [
+    "0. 周期笔记/Templates/Daily.md",
+    "1. 项目/分享-2023 WOT 分享会/WOT.README.md",
+    "0. 周期笔记/2023/Daily/06/2023-06-08.md",
+    "0. 周期笔记/2024/Daily/01/2024-01-20.md",
     "0. 周期笔记/2024/Daily/01/2024-01-14.md",
     "README.md",
     "任务.md",
@@ -190,11 +195,8 @@
     "0. 周期笔记/2023/Daily/06/2023-06-11.md",
     "0. 周期笔记/2023/Weekly/2023-W22.md",
     "0. 周期笔记/2023/Daily/06/2023-06-03.md",
-    "1. 项目/分享-2023 WOT 分享会/WOT.README.md",
-    "0. 周期笔记/Templates/Daily.md",
     "0. 周期笔记/Templates/Monthly.md",
     "0. 周期笔记/Templates/Quarterly.md",
-    "0. 周期笔记/2023/Daily/06/2023-06-08.md",
     "0. 周期笔记/2024/Daily/01",
     "0. 周期笔记/2024/Daily",
     "0. 周期笔记/2024",
