@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "模版",
+  "templates_folder": "template",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,10 @@
   "enable_folder_templates": true,
   "folder_templates": [],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    ""
+    "template/模版_基本.md",
+    "template/模版_阅读.md"
   ],
   "startup_templates": [
     ""
