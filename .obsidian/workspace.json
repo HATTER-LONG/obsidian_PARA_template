@@ -4,38 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "fe4510328c6d6127",
+        "id": "bacecffec7259f57",
         "type": "tabs",
         "children": [
           {
-            "id": "2700c0ce6e5b6fbd",
+            "id": "2c00d0dd495bd8a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 资源/Template.md",
+                "file": "0. 周期笔记/2024/Daily/01/2024-01-21.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6adb85e4044fbd09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "任务.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ]
       },
       {
-        "id": "8f79c4df3fbd44fc",
+        "id": "04d438ecf2589bdb",
         "type": "tabs",
         "children": [
           {
-            "id": "7d5cb9abeef29d35",
+            "id": "9ce8fafb06fb84bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1. 项目/知识管理技巧学习/知识管理技巧.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -51,7 +64,7 @@
       {
         "id": "d32bd3e9f2db57a0",
         "type": "tabs",
-        "dimension": 25.87346553352219,
+        "dimension": 43.63992172211349,
         "children": [
           {
             "id": "e2f9ecf537a853a4",
@@ -75,7 +88,7 @@
       {
         "id": "90362f6f602f507d",
         "type": "tabs",
-        "dimension": 74.1265344664778,
+        "dimension": 56.36007827788651,
         "children": [
           {
             "id": "318abbbcd7749f6f",
@@ -93,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#PARA/Capture",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +122,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           }
@@ -117,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385
+    "width": 347
   },
   "right": {
     "id": "e909704c2c67d329",
@@ -133,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. 资源/Template.md",
+                "file": "0. 周期笔记/2024/Daily/01/2024-01-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. 资源/Template.md"
+                "file": "0. 周期笔记/2024/Daily/01/2024-01-21.md"
               }
             }
           },
@@ -155,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. 资源/Template.md",
+                "file": "0. 周期笔记/2024/Daily/01/2024-01-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +191,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -199,55 +213,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2700c0ce6e5b6fbd",
+  "active": "2c00d0dd495bd8a6",
   "lastOpenFiles": [
-    "README.md",
-    "3. 资源/Template.md",
-    "0. 周期笔记/2024/Daily/01/2024-01-21.md",
-    "任务.md",
-    "template/模版_基本.md",
-    "2. 领域/Template.md",
     "-1. 捕获/README.md",
-    "template/未命名.md",
+    "1. 项目/知识管理技巧学习/知识管理技巧.md",
+    "任务.md",
+    "1. 项目/知识管理技巧学习/知识管理技巧学习.README.md",
+    "1. 项目/知识管理技巧学习/PIC/Pasted image 20240121192110.png",
+    "1. 项目/知识管理技巧学习/PIC/Pasted image 20240121192224.png",
+    "1. 项目/知识管理技巧学习/PIC",
+    "0. 周期笔记/2024/Daily/01/2024-01-21.md",
+    "1. 项目/知识管理技巧学习/资料/知识管理技巧学习记录.md",
+    "主页.canvas",
+    "知识体系.md",
+    "1. 项目/整理笔记本/整理笔记本.README.md",
+    "1. 项目/知识管理技巧学习/资料/知识管理技巧学习资源.md",
+    "0. 周期笔记/Templates/Daily.md",
+    "template/模版_阅读.md",
+    "template/模版_基本.md",
+    "template",
+    "1. 项目/知识管理技巧学习/资料",
+    "1. 项目/知识管理技巧学习/资料/PIC/Pasted image 20240121150801.png",
+    "1. 项目/知识管理技巧学习/资料/PIC/Pasted image 20240121150740.png",
+    "1. 项目/知识管理技巧学习/资料/PIC/Pasted image 20240121150710.png",
+    "2. 领域/知识管理/知识管理.README.md",
+    "4. 存档/Template.md",
+    "2. 领域/Template.md",
     "0. 周期笔记/Templates/Yearly.md",
     "0. 周期笔记/Templates/Weekly.md",
     "0. 周期笔记/Templates/Quarterly.md",
     "0. 周期笔记/Templates/Monthly.md",
-    "0. 周期笔记/Templates/Daily.md",
-    "1. 项目/Template.md",
-    "4. 存档/Template.md",
-    "template/模版_阅读.md",
-    "2. 领域/工作/README.md",
-    "template",
-    "2. 领域/育儿/README.md",
-    "2. 领域/知识管理/README.md",
-    "1. 项目/分享-2023 WOT 分享会/WOT.README.md",
-    "0. 周期笔记/2023/Daily/06/2023-06-08.md",
+    "3. 资源/常用工具使用/工具记录/FastApi 框架使用技巧.md",
+    "1. 项目/知识管理技巧学习/资料/PIC/Pasted image 20240121100107.png",
+    "1. 项目/知识管理技巧学习/资料/PIC/Pasted image 20240121095843.png",
+    "1. 项目/知识管理技巧学习/资料/PIC",
+    "1. 项目/知识管理技巧学习/Pasted image 20240121095757.png",
     "0. 周期笔记/2024/Daily/01/2024-01-20.md",
-    "0. 周期笔记/2024/Daily/01/2024-01-14.md",
-    "主页.canvas",
-    "0. 周期笔记/2023/Daily/06/2023-06-01.md",
-    "0. 周期笔记/2023/Monthly/2023-06.md",
-    "0. 周期笔记/2023/Daily/06/2023-06-11.md",
-    "0. 周期笔记/2024/Daily/01",
-    "0. 周期笔记/2024/Daily",
-    "0. 周期笔记/2024",
-    "0-周期笔记/2024/Daily/01",
-    "0-周期笔记/2024/Daily",
-    "0-周期笔记/2024",
-    "0-周期笔记",
-    "font/YangRenDongZhuShiTi-Regular-2.ttf",
-    "font/YeZiGongChangChuanQiuShaXingKai-2.ttf",
+    "3. 资源/常用工具使用/常用工具使用.README.md",
+    "3. 资源/常用工具使用/工具记录/Poetry 使用技巧.md",
+    "3. 资源/常用工具使用/工具记录/Docker 使用技巧.md",
+    "3. 资源/常用工具使用/工具记录/Ubuntu相关工具/串口调试工具.md",
+    "3. 资源/常用工具使用/系统配置/未命名",
+    "3. 资源/常用工具使用/系统配置",
+    "3. 资源/常用工具使用/软件使用",
+    "3. 资源/常用工具使用",
+    "1. 项目/知识管理技巧学习",
+    "1. 项目/整理笔记本",
     "4. 存档/育儿-宝宝起名/林奕如.png",
     "4. 存档/育儿-宝宝起名/baby-name.png",
-    "1. 项目/分享-2023 WOT 分享会/Attachments/PPT 素材/insert-row-below.svg",
-    "1. 项目/分享-2023 WOT 分享会/Attachments/PPT 素材/garfish-icon.png",
-    "1. 项目/分享-2023 WOT 分享会/Attachments/PPT 素材/bit-logo.svg",
-    "1. 项目/分享-2023 WOT 分享会/架构图/Polyrepo.svg",
-    "1. 项目/分享-2023 WOT 分享会/架构图/Monorepo.svg",
-    "1. 项目/分享-2023 WOT 分享会/Attachments/PPT 素材/warning.svg",
-    "1. 项目/分享-2023 WOT 分享会/Attachments/PPT 素材/warning.png",
-    "1. 项目/分享-2023 WOT 分享会/Attachments/PPT 素材/rollup-logo.svg",
     "HOME.canvas",
     "Templates/HOME.canvas",
     "hello/HOME.canvas",

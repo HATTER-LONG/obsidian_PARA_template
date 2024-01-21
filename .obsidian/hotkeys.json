@@ -235,30 +235,6 @@
       "key": "2"
     }
   ],
-  "workspace:split-vertical": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "W"
-    }
-  ],
-  "editor:focus-left": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "H"
-    }
-  ],
-  "editor:focus-right": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "L"
-    }
-  ],
   "workspace:close-window": [],
   "workspace:close": [
     {
@@ -274,14 +250,6 @@
         "Ctrl"
       ],
       "key": "R"
-    }
-  ],
-  "file-explorer:open": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "N"
     }
   ]
 }
